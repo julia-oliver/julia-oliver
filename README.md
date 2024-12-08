@@ -2,17 +2,6 @@
 
 ###
 
-<div align="center">
-  
-  <a href="mailto:juliaoliver.fsa@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail Logo" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/julia-oliveira-643169267/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn Logo" />
-  </a>
-</div>
-
 ###
 
 <div align="center">
@@ -28,18 +17,32 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="43" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="43" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="43" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="43" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="43" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="43" alt="java logo"  />
+<div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 600px;">
+  
+  <!-- Social Media Icons (left side) -->
+  <div>
+    <a href="mailto:juliaoliver.fsa@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail Logo" />
+    </a>
+    <a href="https://www.linkedin.com/in/julia-oliveira-643169267/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn Logo" />
+    </a>
+  </div>
+
+  <!-- Skill Icons (right side) -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=js" height="43" alt="javascript logo" />
+    <img width="20" />
+    <img src="https://skillicons.dev/icons?i=html" height="43" alt="html5 logo" />
+    <img width="20" />
+    <img src="https://skillicons.dev/icons?i=css" height="43" alt="css3 logo" />
+    <img width="20" />
+    <img src="https://skillicons.dev/icons?i=py" height="43" alt="python logo" />
+    <img width="20" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="43" alt="postgresql logo" />
+    <img width="20" />
+    <img src="https://skillicons.dev/icons?i=java" height="43" alt="java logo" />
+  </div>
 </div>
 
 ###
