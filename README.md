@@ -15,17 +15,6 @@
 
 ###
 
-<div>
-    <a href="mailto:juliaoliver.fsa@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail Logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/julia-oliveira-643169267/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn Logo" />
-    </a>
-  </div>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="43" alt="javascript logo"  />
   <img width="20" />
