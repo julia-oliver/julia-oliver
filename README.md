@@ -17,7 +17,7 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 900px;">
+<div align="center" style="display: flex; justify-content: space-between; width: 100%;">
   
   <!-- Social Media Icons (left side) -->
   <div style="display: flex; gap: 10px;">
