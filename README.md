@@ -17,10 +17,10 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 600px;">
+<div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 900px;">
   
   <!-- Social Media Icons (left side) -->
-  <div>
+  <div style="display: flex; gap: 10px;">
     <a href="mailto:juliaoliver.fsa@gmail.com" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail Logo" />
     </a>
@@ -30,19 +30,15 @@
   </div>
 
   <!-- Skill Icons (right side) -->
-  <div>
+  <div style="display: flex; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=js" height="43" alt="javascript logo" />
-    <img width="20" />
     <img src="https://skillicons.dev/icons?i=html" height="43" alt="html5 logo" />
-    <img width="20" />
     <img src="https://skillicons.dev/icons?i=css" height="43" alt="css3 logo" />
-    <img width="20" />
     <img src="https://skillicons.dev/icons?i=py" height="43" alt="python logo" />
-    <img width="20" />
     <img src="https://skillicons.dev/icons?i=postgres" height="43" alt="postgresql logo" />
-    <img width="20" />
     <img src="https://skillicons.dev/icons?i=java" height="43" alt="java logo" />
   </div>
+  
 </div>
 
 ###
