@@ -25,15 +25,19 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/julia-oliver/julia-oliver/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  
+  <a href="mailto:juliaoliver.fsa@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail Logo" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/julia-oliveira-643169267/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn Logo" />
+  </a>
 </div>
 
 ###
