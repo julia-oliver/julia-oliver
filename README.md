@@ -15,18 +15,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="43" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="43" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="43" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="43" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="43" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="43" alt="java logo"  />
-</div>
 
 
