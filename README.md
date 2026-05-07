@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WireShark-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge" />
 </p>
 
