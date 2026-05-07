@@ -32,6 +32,11 @@
 
 <br/>
 <br/>
+
+<p align="center">
+
+</p>
+
 <h2 align="center"> <img src="https://github.com/user-attachments/assets/1a2663d2-9406-4426-ba2c-ed3ab5fe7d09" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
