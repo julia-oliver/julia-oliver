@@ -8,6 +8,10 @@
   <a href="http://www.linkedin.com/in/julia-oliveira-643169267" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://julia-oliver.github.io/portfolio/#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 
