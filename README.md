@@ -27,7 +27,6 @@
 
 <p align="center">
      <em><b> Studying at the Universidade Estadual de Feira de Santana (UEFS) </b></em> <br/>
-     <em><b> English tutor at Aliança Idiomas </b></em><br/>
 </p>
 
 <br/>
