@@ -22,7 +22,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Julia Oliveira </b></em>, a Computer Engineering student focused on cybersecurity, networks, and distributed systems. I enjoy building hands-on projects to understand how systems communicate, scale, and stay secure. Currently, I’m exploring topics like network protocols, system architecture, and security fundamentals through practical experiments and real-world simulations.
+  Hello There! <em><b> I'm Julia Oliveira </b></em>, a Computer Engineering student focused on cybersecurity and networks. I enjoy building hands-on projects to understand how systems communicate, scale, and stay secure. Currently, I’m exploring topics like network protocols, system architecture, and security fundamentals through practical experiments and real-world simulations.
 </p>
 
 <br/>
